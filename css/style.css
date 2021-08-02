@@ -1,0 +1,9 @@
+.bg-color{
+    background-color: #264653;
+}
+.text-color{
+    color: white;
+}
+.grayscale{
+    filter: grayscale(100%);
+}
